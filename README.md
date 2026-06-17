@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Muhammad Mishal
 
-<!--
-**MuhammadMishal/MuhammadMishal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-End Developer
 
-Here are some ideas to get you started:
+- 🌱 Currently learning JavaScript
+- 💻 Building web projects
+- 📍 Bangladesh
+- 📫 Email: your-email@example.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/muhammad-mishal-461b8839a/?skipRedirect=true
+- Facebook: https://www.facebook.com/muhammad.mishal.01
