@@ -5,7 +5,7 @@
 - 🌱 Currently learning JavaScript
 - 💻 Building web projects
 - 📍 Bangladesh
-- 📫 Email: your-email@example.com
+- 📫 Email: muhammadmishal0001@gmail.com
 
 ## Skills
 
