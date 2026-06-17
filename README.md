@@ -143,16 +143,13 @@ const mishal = {
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://facebook.com/muhammad.mishal.01">
+<a href="https://www.facebook.com/muhammad.mishal.01">
 <img src="https://skillicons.dev/icons?i=facebook" />
 </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
 
 <h3 align="center">
 ⭐ Thanks For Visiting My Profile ⭐
