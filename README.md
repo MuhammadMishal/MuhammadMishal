@@ -1,3 +1,12 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Muhammad%20Mishal&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20Learner&descAlignY=60"/>
+</p>
+
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile!;Full+Stack+Developer;MERN+Stack+Learner;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Things"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Muhammad Mishal</h1>
 
 <h3 align="center">🚀 Full Stack Developer in Progress | MERN Stack Learner | Future Software Engineer</h3>
@@ -154,6 +163,3 @@ const mishal = {
 <h3 align="center">
 ⭐ Thanks For Visiting My Profile ⭐
 </h3>
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/MuhammadMishal/MuhammadMishal/output/github-contribution-grid-snake.svg)
