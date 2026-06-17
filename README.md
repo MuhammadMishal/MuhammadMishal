@@ -1,19 +1,159 @@
-# Hi 👋 I'm Muhammad Mishal
+<h1 align="center">Hi 👋, I'm Muhammad Mishal</h1>
 
-### Front-End Developer
+<h3 align="center">🚀 Full Stack Developer in Progress | MERN Stack Learner | Future Software Engineer</h3>
 
-- 🌱 Currently learning JavaScript
-- 💻 Building web projects
-- 📍 Bangladesh
-- 📫 Email: muhammadmishal0001@gmail.com
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Things;Welcome+To+My+GitHub!&center=true&width=600&height=50">
+</p>
 
-## Skills
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadMishal&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
 
-## Connect with me
+# 💫 About Me
 
-- LinkedIn: https://www.linkedin.com/in/muhammad-mishal-461b8839a/?skipRedirect=true
-- Facebook: https://www.facebook.com/muhammad.mishal.01
+```javascript
+const mishal = {
+    location: "Bangladesh 🇧🇩",
+    role: "Full Stack Developer",
+    learning: [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "MongoDB",
+        "AI Integration"
+    ],
+    goal: "Become a Professional Software Engineer",
+    hobbies: [
+        "Coding",
+        "Problem Solving",
+        "Learning New Technologies"
+    ]
+}
+```
+
+---
+
+# 🚀 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,vercel" />
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadMishal&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMishal&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMishal&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MuhammadMishal&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMishal&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🎯 Current Roadmap
+
+✅ HTML5
+
+✅ CSS3
+
+✅ JavaScript
+
+✅ ES6
+
+✅ TypeScript
+
+✅ React.js
+
+✅ Tailwind CSS
+
+✅ Next.js
+
+✅ Node.js
+
+✅ Express.js
+
+✅ MongoDB
+
+✅ API Integration
+
+✅ Authentication
+
+✅ Payment Gateway
+
+✅ AI Integration
+
+🔄 Testing
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/MuhammadMishal">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/muhammad-mishal-461b8839a/?skipRedirect=true">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:your-muhammadmishal0001@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://facebook.com/muhammad.mishal.01">
+<img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+<h3 align="center">
+⭐ Thanks For Visiting My Profile ⭐
+</h3>
