@@ -154,3 +154,6 @@ const mishal = {
 <h3 align="center">
 ⭐ Thanks For Visiting My Profile ⭐
 </h3>
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/MuhammadMishal/MuhammadMishal/output/github-contribution-grid-snake.svg)
